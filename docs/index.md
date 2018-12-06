@@ -10,16 +10,22 @@ https://github.com/adobeio/adobeio-documentation/blob/stage/runtime/quickstarts/
 
 ## Step 2
 **Deploy your first action**
+**hello.js**
+
 ```js
 function main(params) {
   return { body: 'Hello ' + params.name };
 }
 ```
 
+**Execute below commands**
+
 `wsk action create hello hello.js --web true`
 
 `wsk action get hello --url`
 
+
+**Append `?name=John` in the above URL
 `https://adobeioruntime.net/api/v1/web/<your_namespace>/default/hello?name=John`
 
 
@@ -29,8 +35,6 @@ function main(params) {
 
 ## Important URLs:
 
-*   Center of developer universe: [https://www.google.com](https://www.google.com)
-*   Adobe Developer website: [https://www.adobe.io](https://www.adobe.io)
-*   Adobe Developer admin console: [https://console.adobe.io](https://console.adobe.io)
+* 
 
 
