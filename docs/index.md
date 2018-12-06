@@ -242,6 +242,21 @@ exports.main = main;
 
 ```
 
+**Execute below commands**
+
+`zip -r action.zip .`
+`wsk action create voyager --kind nodejs:6 action.zip --web true`
+`wsk action get webhook --url`
+
+
+## Step 2
+**Debug your action**
+
+`wsk activation list`
+
+`wsk activation get d773ba181d5a4ca4b3ba181d5abca472`
+
+
 
 
 
