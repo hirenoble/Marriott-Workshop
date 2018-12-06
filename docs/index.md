@@ -25,7 +25,7 @@ function main(params) {
 `wsk action get hello --url`
 
 
-**Append `?name=John` in the above URL
+**Append `?name=John` in the above URL**
 `https://adobeioruntime.net/api/v1/web/<your_namespace>/default/hello?name=John`
 
 
