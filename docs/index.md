@@ -4,7 +4,9 @@ layout: default
 # Instructions
 
 ## Step 1
-Setup your environment following given steps: https://github.com/adobeio/adobeio-documentation/blob/stage/runtime/quickstarts/setup.md
+Setup your environment following given steps:
+
+https://github.com/adobeio/adobeio-documentation/blob/stage/runtime/quickstarts/setup.md
 
 ## Step 2
 **Deploy your first action**
