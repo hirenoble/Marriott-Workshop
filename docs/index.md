@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Marriott Workshop
+# Instructions
 
 # Excercise-1 (Hello World)
 
