@@ -10,6 +10,9 @@ Setup your environment following given steps:
 
 ## Step 2
 **Deploy your first action**
+
+* Copy the below code in a text editor and save the files as `hello.js`
+
 **hello.js**
 
 ```js
