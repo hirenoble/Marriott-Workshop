@@ -251,7 +251,7 @@ exports.main = main;
 `wsk action create voyager --kind nodejs:6 action.zip --web true`
 
 
-`wsk action get webhook --url`
+`wsk action get voyager --url`
 
 
 ## Step 2
