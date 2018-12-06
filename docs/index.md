@@ -100,10 +100,11 @@ module.exports = {
         eventID: "EVTAAMValue"
     }
 }
-
 ```
 
 * Copy the below code in a text editor and save it as `package.json`
+
+
 ```json
 {
   "name": "Adobe Runtime action",
@@ -113,7 +114,6 @@ module.exports = {
     "start": "node app.js"
   }
 }
-
 ```
 
 * Copy the below code in a text editor and save it as `app.js`
@@ -239,7 +239,6 @@ function generateToken(_config, callback) {
 
 
 exports.main = main;
-
 ```
 
 **Execute below commands**
