@@ -79,7 +79,7 @@ function main(args) {
 `wsk activation get d773ba181d5a4ca4b3ba181d5abca472`
 
 
-# Excercise 3 (Data Source in Voyager)
+# Excercise-3 (Data Source in Voyager)
 
 ## Step 1
 
