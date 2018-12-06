@@ -16,7 +16,6 @@ Setup your environment following given steps:
 
 * Copy the below code in a text editor and save it as `hello.js`
 
-**hello.js**
 
 ```js
 function main(params) {
